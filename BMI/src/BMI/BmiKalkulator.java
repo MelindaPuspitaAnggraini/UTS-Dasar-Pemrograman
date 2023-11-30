@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author user
+ * @author Melinda
  */
 public class BmiKalkulator {
     public static void main(String[] args) {
